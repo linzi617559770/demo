@@ -3,3 +3,4 @@ Git is free software.
 append
 ÖĞÎÄ²âÊÔ
 Ôİ´æ
+Git tracks changes.
